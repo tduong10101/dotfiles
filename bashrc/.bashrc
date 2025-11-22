@@ -12,4 +12,4 @@ source ~/.local/share/omarchy/default/bash/rc
 
 if command -v tmux >/dev/null && [ -z "$TMUX" ]; then exec tmux; fi
 
-. "$HOME/.local/share/../bin/env"
+# . "$HOME/.local/share/../bin/env"
