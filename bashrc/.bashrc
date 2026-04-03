@@ -10,6 +10,11 @@ source ~/.local/share/omarchy/default/bash/rc
 # Make an alias for invoking commands you use constantly
 # alias p='python'
 
-if command -v tmux >/dev/null && [ -z "$TMUX" ]; then exec tmux; fi
+if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+  exec tmux new-session
+fi
 
 # . "$HOME/.local/share/../bin/env"
+# export ANTHROPIC_AUTH_TOKEN="ollama"
+# export ANTHROPIC_API_KEY=""
+# export ANTHROPIC_BASE_URL="http://localhost:11434"

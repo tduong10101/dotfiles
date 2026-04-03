@@ -1,10 +1,11 @@
 {
   "LazyVim": { "branch": "main", "commit": "8b8ceb6c878cd9c44dac4b6beb70a7bb82d86c30" },
-  "aether.nvim": { "branch": "main", "commit": "e4c485f6fea6170fe2da17e87ca98cd25d215cd5" },
   "bamboo.nvim": { "branch": "master", "commit": "6ec224a4fcf0970fce262fc5bb51048721d464f6" },
   "blink.cmp": { "branch": "main", "commit": "327fff91fe6af358e990be7be1ec8b78037d2138" },
   "bufferline.nvim": { "branch": "main", "commit": "655133c3b4c3e5e05ec549b9f8cc2894ac6f51b3" },
   "catppuccin": { "branch": "main", "commit": "8c4125e3c746976ba025dc5d908fa22c6aa09486" },
+  "codecompanion.nvim": { "branch": "main", "commit": "558518f8d78a44198cd428f6bf8bf48bfa38d76d" },
+  "codeium.vim": { "branch": "main", "commit": "3c0a4f8a7be75113a6e19be13b7cc37210d6e26a" },
   "conform.nvim": { "branch": "master", "commit": "9fd3d5e0b689ec1bf400c53cbbec72c6fdf24081" },
   "everforest": { "branch": "master", "commit": "90e40e3eff9c9bf2c59f7fee4d1fcac213c8cf8b" },
   "flash.nvim": { "branch": "main", "commit": "3be9bf7e85550045ec576379a0c45aac144d0438" },
@@ -14,7 +15,6 @@
   "grug-far.nvim": { "branch": "main", "commit": "3e72397465f774b01aa38e4fe8e6eecf23d766d9" },
   "gruvbox.nvim": { "branch": "main", "commit": "5e0a460d8e0f7f669c158dedd5f9ae2bcac31437" },
   "image.nvim": { "branch": "master", "commit": "446a8a5cc7a3eae3185ee0c697732c32a5547a0b" },
-  "hackerman.nvim": { "branch": "main", "commit": "8134000fa4de5036d1af519774c3e373887226e3" },
   "kanagawa.nvim": { "branch": "master", "commit": "aef7f5cec0a40dbe7f3304214850c472e2264b10" },
   "lazy.nvim": { "branch": "main", "commit": "db067881fff0fd4be8c00e5bde7492e0e1c77a2f" },
   "lazydev.nvim": { "branch": "main", "commit": "01bc2aacd51cf9021eb19d048e70ce3dd09f7f93" },
@@ -43,6 +43,7 @@
   "tokyonight.nvim": { "branch": "main", "commit": "4fe1b0c44f5d6ee769cdfbdffc7ccb703f53feda" },
   "trouble.nvim": { "branch": "main", "commit": "76030c5542c5d132aeeb467ca0ab370f3f79a697" },
   "ts-comments.nvim": { "branch": "main", "commit": "217ab9cc137fceb6659b53790bd25e608219abe1" },
+  "venv-selector.nvim": { "branch": "main", "commit": "bcb2f58533c59b01565285eba49693f00bc460f5" },
   "vim-tmux-navigator": { "branch": "master", "commit": "c45243dc1f32ac6bcf6068e5300f3b2b237e576a" },
   "which-key.nvim": { "branch": "main", "commit": "b4177e3eaf15fe5eb8357ebac2286d488be1ed00" }
 }
