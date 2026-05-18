@@ -14,7 +14,7 @@ if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] &&
   exec tmux new-session
 fi
 
-# . "$HOME/.local/share/../bin/env"
+#. "$HOME/.local/share/../bin/env"
 # export ANTHROPIC_AUTH_TOKEN="ollama"
 # export ANTHROPIC_API_KEY=""
 # export ANTHROPIC_BASE_URL="http://localhost:11434"
